@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "842106145059",
+    "firebase_url": "https://microchat-33b48.firebaseio.com",
+    "project_id": "microchat-33b48",
+    "storage_bucket": "microchat-33b48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842106145059:android:2bd87e191e8664be",
+        "android_client_info": {
+          "package_name": "com.orxor.micro_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842106145059-otn1gteh70noefc10mvo82475raauk7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orxor.micro_chat",
+            "certificate_hash": "17a3a0e6d72f56af65ca8ad46952111b17fabd9c"
+          }
+        },
+        {
+          "client_id": "842106145059-ucptfv733o9u7miepdlfvknhv93uh1ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADDbnmYDP8s6VDIkTqNLCMpwX-XRSDAck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842106145059-ucptfv733o9u7miepdlfvknhv93uh1ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
